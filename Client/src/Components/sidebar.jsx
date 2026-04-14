@@ -436,7 +436,7 @@ export default function Sidebar() {
                 <div className="w-8 h-8 rounded-full bg-gradient-to-br from-sky-400 to-indigo-500 flex items-center justify-center text-white text-xs font-bold">AA</div>
                 <div className="flex-1 min-w-0">
                   <p className="text-slate-200 text-sm font-medium">Admin Account</p>
-                  <p className="text-slate-500 text-[11px]">admin@edunexus.ng</p>
+                  <p className="text-slate-500 text-[11px]">admin@Stalwart.ng</p>
                 </div>
               </div>
             </div>
