@@ -30,3 +30,12 @@ axiosInstance.interceptors.response.use(
 );
 
 export default axiosInstance;
+
+
+// How to use it in every other file 
+// Step 1: import axiosInstance from './axiosConfig';
+// Step 2a: axiosInstance.get('/api/users'); This is to get from a database endpoint without needing of a token or an header
+// Step 2b: axiosInstance.post('/api/users');
+// Step 2c: axiosInstance.put('/api/users');
+// Step 2d: axiosInstance.delete('/api/users');
+
