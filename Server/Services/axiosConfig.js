@@ -23,6 +23,7 @@ axiosInstance.interceptors.response.use(
       // Token expired or invalid — clean up and redirect
       localStorage.removeItem("token");
       window.location.href = '/login'; // force user to log in again
+      console.log("Try to login again, token expired");
       alert("Your session has expired. Please log in again.");
     }
     return Promise.reject(error);
