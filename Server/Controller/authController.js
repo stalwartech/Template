@@ -1,7 +1,6 @@
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 const env = require("dotenv").config();
-const mongoose = require("mongoose");
 // Import the auth model here 
 // const authModel = require()
 
