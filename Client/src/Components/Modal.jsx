@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 // Modal / Dialog
 // Usage:
 //   const [open, setOpen] = useState(false)
-//
+
 //   <Modal
 //     open={open}
 //     onClose={() => setOpen(false)}
