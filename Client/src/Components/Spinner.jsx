@@ -12,7 +12,6 @@
 //   size    : "xs" | "sm" | "md" | "lg" | "xl"                            (default: "md")
 //   color   : "indigo" | "sky" | "emerald" | "amber" | "red" | "white"   (default: "indigo")
 //   label   : string — optional text shown below the spinner
-//
 // PageLoader Props:
 //   label   : string  (default: "Loading...")
 //   color   : same color options as Spinner
