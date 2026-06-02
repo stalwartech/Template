@@ -17,7 +17,7 @@ import { useState } from "react";
 //   />
 
 
-//  lkajsl
+//  lkajs
 // Props:
 //   open         : boolean (required)
 //   onClose      : () => void (required)
